@@ -10,7 +10,7 @@ A Ph.D. student at Qinghai Normal University, specializing in Natural Language P
 ### About Me
 
 * 🎓 I am a Ph.D. student at the **Tsehang Dorjee/Dorjee Tsehang** at Qinghai Normal University.
-* 🔭 My research focuses on **Natural Language Processing (NLP)** and **Speech Synthesis (TTS)**, especially in areas like [mention a specific area, e.g., low-resource languages, prosody modeling, voice conversion].
+* 🔭 My research focuses on **Natural Language Processing (NLP)** and **Speech Synthesis (TTS)**, especially in areas like [low-resource languages, prosody modeling, voice conversion].
 * 🌱 I'm passionate about building intelligent systems that can understand and generate human language.
 * 💬 Feel free to reach out for discussions about NLP, TTS, and deep learning.
 
